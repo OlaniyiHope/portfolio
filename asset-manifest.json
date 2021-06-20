@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio.git/static/css/main.9b437d93.chunk.css",
+    "main.js": "/portfolio.git/static/js/main.bab60da2.chunk.js",
+    "main.js.map": "/portfolio.git/static/js/main.bab60da2.chunk.js.map",
+    "runtime-main.js": "/portfolio.git/static/js/runtime-main.3d5a44bd.js",
+    "runtime-main.js.map": "/portfolio.git/static/js/runtime-main.3d5a44bd.js.map",
+    "static/js/2.bed02680.chunk.js": "/portfolio.git/static/js/2.bed02680.chunk.js",
+    "static/js/2.bed02680.chunk.js.map": "/portfolio.git/static/js/2.bed02680.chunk.js.map",
+    "index.html": "/portfolio.git/index.html",
+    "static/css/main.9b437d93.chunk.css.map": "/portfolio.git/static/css/main.9b437d93.chunk.css.map",
+    "static/js/2.bed02680.chunk.js.LICENSE.txt": "/portfolio.git/static/js/2.bed02680.chunk.js.LICENSE.txt",
+    "static/media/12.2b4c4054.jpg": "/portfolio.git/static/media/12.2b4c4054.jpg",
+    "static/media/8.8c7d67cd.png": "/portfolio.git/static/media/8.8c7d67cd.png",
+    "static/media/blog1.1c41f86e.png": "/portfolio.git/static/media/blog1.1c41f86e.png",
+    "static/media/cat.e49c28cb.jpg": "/portfolio.git/static/media/cat.e49c28cb.jpg",
+    "static/media/food.910850d8.png": "/portfolio.git/static/media/food.910850d8.png",
+    "static/media/good.8c1319b4.JPG": "/portfolio.git/static/media/good.8c1319b4.JPG",
+    "static/media/safe.f34149fd.png": "/portfolio.git/static/media/safe.f34149fd.png",
+    "static/media/sch.b887b992.png": "/portfolio.git/static/media/sch.b887b992.png",
+    "static/media/takee.31bb71ba.png": "/portfolio.git/static/media/takee.31bb71ba.png",
+    "static/media/tmm.70e37626.png": "/portfolio.git/static/media/tmm.70e37626.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5a44bd.js",
+    "static/js/2.bed02680.chunk.js",
+    "static/css/main.9b437d93.chunk.css",
+    "static/js/main.bab60da2.chunk.js"
+  ]
+}
