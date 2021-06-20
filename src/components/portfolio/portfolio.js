@@ -1,14 +1,12 @@
-import React from 'react'
-import "./portfolio.scss"
-import cop1 from "../assets/food.png"
-import cop2 from "../assets/fox.png"
-import cop3 from "../assets/safe.png"
-import cop4 from "../assets/takee.png"
-import cop6 from "../assets/takee.png"
-import cop5 from "../assets/sch.png"
+import React from 'react';
+import "./portfolio.scss";
+import app1 from "../assets/tmm.png";
+import app2 from "../assets/takee.png";
+import app3 from "../assets/cat.jpg";
+import app4 from "../assets/sch.png";
+import app5 from "../assets/blog1.png";
 
-
-
+import app6 from "../assets/food.png";
 
 
 export const Portfolio = () => {
@@ -24,28 +22,28 @@ export const Portfolio = () => {
             </ul>
             <div className="container">
                 <div className="item">
-                <img src={cop1} alt="" />
-                    <h3>Banking App</h3>
+                <img src={app1} alt="" />
+                    <h3>Transport App</h3>
                 </div>
                 <div className="item">
-                <img src={cop2} alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                <img src={cop3} alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                <img src={cop4} alt="" />
+                <img src={app2} alt="" />
                     <h3>Ecommerce App</h3>
                 </div>
                 <div className="item">
-                <img src={cop5} alt="" />
-                    <h3>Banking App</h3>
+                <img src={app3} alt="" />
+                    <h3>Non-profit App</h3>
                 </div>
                 <div className="item">
-                <img src={cop6} alt="" />
-                    <h3>Banking App</h3>
+                <img src={app4} alt="" />
+                    <h3>Educational App</h3>
+                </div>
+                <div className="item">
+                <img src={app5} alt="" />
+                    <h3>Blog Project</h3>
+                </div>
+                <div className="item">
+                <img src={app6} alt="" />
+                    <h3>Food Website</h3>
                 </div>
             </div>
         </div>
