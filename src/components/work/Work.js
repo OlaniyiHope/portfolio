@@ -17,7 +17,7 @@ export const Work = () => {
         <div className="imgContainer">
         <img src={cop3} alt="" />
         </div>
-        <h2>Web Applicatons</h2>
+        <h2>Web Applications</h2>
         <p>I build, test and deploy great web application interface for your company, both as a user and as an admin</p>
         <span>Projects</span>
             </div>
